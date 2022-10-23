@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: [Click here](https://simpleluke.github.io/Picture-In-Picture/)
+- Live Site: [Click here](https://simpleluke.github.io/Spock-Rock-Game/)
 
 ### Built with
 
