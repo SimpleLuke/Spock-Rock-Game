@@ -1,18 +1,15 @@
-
-This Spock Rock Game built with HTML, CSS, JavaScript.
+This Spock Rock Game built with HTML, CSS, JavaScript. Game concept is inspired by Big Bang Theory.
 
 Rules :[Click here](https://www.youtube.com/watch?v=405Nh2H4Ucg)
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -25,7 +22,6 @@ Users should be able to:
 
 <img src="./preview.png" width="400" />
 
-
 ### Links
 
 - Live Site: [Click here](https://simpleluke.github.io/Spock-Rock-Game/)
@@ -35,7 +31,6 @@ Users should be able to:
 - HTML
 - CSS
 - JavaScript
-
 
 ## Author
 
